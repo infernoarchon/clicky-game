@@ -32,31 +32,31 @@
     {
       "id": 6,
       "name": "Plankton",
-      "image": "/images/plankton.png",
+      "image": "./images/plankton.png",
       "color": "brown"
       },
     {
       "id": 7,
       "name": "Barnacle Boy",
-      "image": "/images/barnacleboy.png",
+      "image": ";/images/barnacleboy.png",
       "color": "violet"
     },
     {
       "id": 8,
       "name": "Pearl",
-      "image": "/images/pearl.png",
+      "image": "./images/pearl.png",
       "color": "yellow"
        },
     {
       "id": 9,
       "name": "Mermaid Man",
-      "image": "../images/mermaidman.png",
+      "image": "./images/mermaidman.png",
       "color": "teal"
         },
     {
       "id": 10,
       "name": "Larry the Lobster",
-      "image": "../images/larry.png",
+      "image": "./images/larry.png",
       "color": "pink"
     },
     {
@@ -68,7 +68,7 @@
     {
       "id": 12,
       "name": "Karen",
-      "image": "/images/karen.png",
+      "image": "./images/karen.png",
       "color": "lightgreen"
     }
   ]
