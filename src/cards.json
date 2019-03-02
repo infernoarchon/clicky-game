@@ -50,19 +50,19 @@
     {
       "id": 9,
       "name": "Mermaid Man",
-      "image": "/images/mermaidman.png",
+      "image": "../images/mermaidman.png",
       "color": "teal"
         },
     {
       "id": 10,
       "name": "Larry the Lobster",
-      "image": "/images/larry.png",
+      "image": "../images/larry.png",
       "color": "pink"
     },
     {
       "id": 11,
       "name": "Mrs. Puff",
-      "image": "/images/puff.png",
+      "image": "./images/puff.png",
       "color": "green"
     },
     {
