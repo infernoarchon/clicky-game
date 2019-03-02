@@ -38,7 +38,7 @@
     {
       "id": 7,
       "name": "Barnacle Boy",
-      "image": ";/images/barnacleboy.png",
+      "image": "./images/barnacleboy.png",
       "color": "violet"
     },
     {
